@@ -1,6 +1,6 @@
 # HomeLab
 
-![Cover](cover.jpg)
+![Cover](HomeLab.png)
 
 ## Overview HW
 
