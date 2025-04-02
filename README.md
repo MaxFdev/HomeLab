@@ -42,5 +42,3 @@ The software varies depending on what I am working on, here are some of the part
     - ZFS (Storage pool)
 
 ---
-
-WIP...
